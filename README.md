@@ -4,3 +4,4 @@ Practicing Problem solving with DSA and python
 |__ Problem__2__
 |__ Problem__3__
 |__ Problem__4__
+|__ Problem__5__
