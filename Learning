@@ -6,3 +6,28 @@ import matplotlib // .pyplot
 import seaborn 
 import scipy // .stats
 import plotly //.express
+import joblib  // to load saved model pipelines
+import datetime // from datetime 
+
+## Machine Learnings & Advanced Libraries
+import RandomForestRegressor // from sklearn.ensemble 
+import Pipeline // from sklearn.pipeline 
+import StandardScaler // from sklearn.preprocessing
+import train_test_split // from sklearn.model_selection 
+import sklearn
+import sqrt // from math 
+import os // # Create output directory for charts        // os.makedirs("outputs/eda_charts", exist_ok=True)
+import train_test_split // from sklearn.model_selection 
+import LinearRegression // from sklearn.linear_model 
+import mean_squared_error, mean_absolute_error, r2_score // from sklearn.metrics 
+import OneHotEncoder // from sklearn.preprocessing 
+import ColumnTransformer // from sklearn.compose 
+import xgboost
+import folium
+import json
+import geopandas //  # Step 2: Load the NYC Taxi Zone GeoJSON file   geojson_path = "sample_taxi_zones.geojson"   zones_gdf = gpd.read_file(geojson_path)
+
+
+
+
+
