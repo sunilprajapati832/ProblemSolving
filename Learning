@@ -1,0 +1,8 @@
+#Libraries
+import  requests // for get response method , BeautifulSoup
+import pandas
+import numpy
+import matplotlib // .pyplot
+import seaborn 
+import scipy // .stats
+import plotly //.express
