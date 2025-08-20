@@ -1,3 +1,4 @@
+pyhton```
 #Libraries
 import  requests // for get response method , BeautifulSoup
 import pandas
@@ -44,6 +45,7 @@ import create_engine // from sqlalchemy     engine = create_engine(f"mysql+pymys
 import squarify // # Plot treemap      squarify.plot(sizes=department_salary, label=department_salary.index, alpha=0.7, color=['#ff9999', '#66b3ff', '#99ff99', '#ffcc99', '#c2c2f0'])
 
 import mysql.connector // # Database connection    conn = mysql.connector.connect( host="localhost", user="root", password="12345", database="employee_data" )
+```
 
 
 
