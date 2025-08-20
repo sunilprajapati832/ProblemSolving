@@ -1,4 +1,4 @@
-```pyhton
+```python
 #Libraries
 import  requests // for get response method , BeautifulSoup
 import pandas
