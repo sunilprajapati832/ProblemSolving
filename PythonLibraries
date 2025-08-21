@@ -1,0 +1,22 @@
+| Library           | Purpose / Use Case        | Syntax / Example                                        | Project / Domain Example          |
+| ----------------- | ------------------------- | ------------------------------------------------------- | --------------------------------- |
+| `requests`        | Fetch data from APIs      | `import requests`<br>`requests.get(url)`                | Finance APIs, E-commerce scraping |
+| `BeautifulSoup`   | Web scraping HTML         | `from bs4 import BeautifulSoup`                         | Job listings, Product reviews     |
+| `pandas`          | Data wrangling & analysis | `import pandas as pd`<br>`df = pd.read_csv("data.csv")` | Customer, sales, inventory data   |
+| `numpy`           | Numerical operations      | `import numpy as np`<br>`np.mean(arr)`                  | Feature engineering, ML           |
+| `matplotlib`      | Basic plots               | `import matplotlib.pyplot as plt`<br>`plt.plot(x,y)`    | Trend analysis, KPIs              |
+| `seaborn`         | Statistical visualization | `sns.histplot(df['age'], kde=True)`                     | Correlations, distributions       |
+| `scipy`           | Statistical functions     | `from scipy import stats`<br>`stats.ttest_ind(a,b)`     | Hypothesis testing                |
+| `plotly`          | Interactive visualization | `px.scatter(df, x="age", y="salary")`                   | Dashboards, finance/marketing     |
+| `joblib`          | Save/load ML models       | `joblib.dump(model, "model.pkl")`                       | Reuse ML pipelines                |
+| `datetime`        | Dates & time handling     | `datetime.now()`                                        | Time-series analysis              |
+| `logging`         | Track pipelines & errors  | `logging.info("Step done")`                             | Debug ML pipelines                |
+| `sklearn`         | ML algorithms             | `train_test_split`, `LinearRegression()`                | Regression, classification        |
+| `xgboost`         | Gradient boosting         | `xgb.XGBClassifier()`                                   | Predictive analytics              |
+| `folium`          | Interactive maps          | `folium.Map(location=[lat, lon])`                       | Geospatial analytics              |
+| `json`            | JSON data                 | `json.loads(data)`                                      | APIs, web data                    |
+| `geopandas`       | Geospatial data           | `gpd.read_file("zones.geojson")`                        | Mapping, NYC Taxi project         |
+| `sqlalchemy`      | DB connection (ORM)       | `create_engine("mysql+pymysql://")`                     | Load SQL data                     |
+| `mysql.connector` | MySQL connection          | `mysql.connector.connect(...)`                          | Employee, sales DB                |
+| `squarify`        | Treemap                   | `squarify.plot(sizes=[30,40,50])`                       | Salary or department treemaps     |
+| `warnings`        | Suppress warnings         | `warnings.filterwarnings("ignore")`                     | Clean console outputs             |
