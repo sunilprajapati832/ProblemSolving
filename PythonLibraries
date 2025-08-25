@@ -1,4 +1,3 @@
-
 | Library           | Purpose / Use Case        | Syntax / Example                                        | Project / Domain Example          |
 | ----------------- | ------------------------- | ------------------------------------------------------- | --------------------------------- |
 | `requests`        | Fetch data from APIs      | `import requests`<br>`requests.get(url)`                | Finance APIs, E-commerce scraping |
