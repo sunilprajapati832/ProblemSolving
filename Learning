@@ -48,6 +48,8 @@ data = {"Name" : ["Sunil", "Sushil", "Swami"],
 "Age": [30, 40, 50],
 "Department": ["HR","IT", "Finance"]}
 
+df = pd.DataFrame(data)
+
 
 
 
