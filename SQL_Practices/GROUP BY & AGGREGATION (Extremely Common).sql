@@ -1,3 +1,4 @@
+
 -- Find number of employees in each department.
 SELECT
 	Department,
@@ -64,4 +65,5 @@ FROM (
 	*
 	FROM Sales.Employees
 	WHERE Salary < (SELECT MAX(Salary) FROM Sales.Employees)
+
 	)t
