@@ -1,7 +1,7 @@
 
 # ProblemSolving
 |__ SQL_Practices (Folder)
-    |___SQLZeroToHeroSeries
+    |__SQLZeroToHeroSeries
 Practicing Problem solving with DSA and python
 |__ array.py
 |__ 2Darray.py
