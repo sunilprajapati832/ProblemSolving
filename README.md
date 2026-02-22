@@ -2,7 +2,8 @@
 # ProblemSolving
 |__ SQL_Practices (Folder)
     |__SQLZeroToHeroSeries
-    
+        |__BASIC QUERY QUESTIONS (Very Frequently Asked).sql
+        
 Practicing Problem solving with DSA and python
 |__ array.py
 |__ 2Darray.py
