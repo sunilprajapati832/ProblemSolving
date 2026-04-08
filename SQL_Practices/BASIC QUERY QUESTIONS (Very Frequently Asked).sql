@@ -13,8 +13,12 @@ SELECT
 	FirstName,
 	Salary
 FROM Sales.Employees WHERE Salary > 55000;
+-- If want all information then use '*'
+SELECT 
+	*
+FROM Sales.Employees WHERE Salary > 55000;
 
--- Qus 4 Fetch employees whose name starts with ‘M’.
+-- Qus 4 Fetch employees whose name starts with â€˜Mâ€™.
 SELECT
 	FirstName
 FROM Sales.Employees WHERE FirstName LIKE 'M%';
