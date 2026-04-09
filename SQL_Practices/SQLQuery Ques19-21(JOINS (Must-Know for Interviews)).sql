@@ -1,4 +1,5 @@
 -- Ques 19. Fetch employee name and department name
+-- Solution:
 -- Inner Join
 SELECT e.emp_name, d.dept_name
 FROM Employees e
