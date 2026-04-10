@@ -3,6 +3,7 @@
 |__ SQL_Practices (Folder)
     |__SQLZeroToHeroSeries
         |__BASIC QUERY QUESTIONS (Very Frequently Asked).sql
+        |__
         |__GROUP BY & AGGREGATION (Extremely Common).sql
         
 Practicing Problem solving with DSA and python
