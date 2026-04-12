@@ -1,5 +1,6 @@
 
 stock_prices = []
+# stock_prices = []
 with open("stock_prices.csv","r") as f:
     for line in f:
         tokens = line.split(',')
