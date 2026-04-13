@@ -4,6 +4,4 @@ Class OperatorPractice_1 {
         System.out.println(a);
   }
 }
-
-
 // op: 21
